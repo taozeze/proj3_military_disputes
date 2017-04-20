@@ -1,5 +1,6 @@
 # Predicting the Course of Military Disputes
 
+Number of Military Disputes from 1992-2010 by Country
 ![Number of Military Disputes from 1992-2010 by Country](media/num_disputes_1992_2010.png)
 
 ## Objective
